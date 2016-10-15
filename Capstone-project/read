@@ -1,0 +1,8 @@
+My Capstone project is about improving quality performance in airline industry through data mining. 
+The data is scraped from airlinequality.com and collected by https://github.com/quankiquanki/skytrax-reviews-dataset 
+In this project, my aim is to find which features have strong correlations with overall rating of airlines, and the strength of 
+the relationship. This will not only reveal the feature that airlines should focus to improve their customer satisfaction (which
+in turn brings more profits and revenues for airlines) but also give them measurements of the impact when they try to improve 
+these features (through coefficients). 
+The project is conducted with advanced models in data mining such as regression, ensemble tree... and training models by 
+cross validation, grid search.
